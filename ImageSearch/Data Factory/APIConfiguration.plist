@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageSearch</key>
+	<dict>
+		<key>url</key>
+		<string>services/rest</string>
+		<key>cachePolicy</key>
+		<string>remote</string>
+		<key>cacheInterval</key>
+		<integer>60</integer>
+		<key>category</key>
+		<string>home</string>
+		<key>MethodType</key>
+		<string>GET</string>
+		<key>EncodingType</key>
+		<string>URL</string>
+		<key>isAuthHeaderRequired</key>
+		<true/>
+		<key>baseUrlType</key>
+		<integer>1</integer>
+		<key>params</key>
+		<array/>
+	</dict>
+</dict>
+</plist>
